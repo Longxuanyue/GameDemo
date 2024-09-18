@@ -69,6 +69,7 @@ if __name__ == "__main__":
                                 person.DeleteSave()
                                 time.sleep(1)
                             case 4:
+                                os.system("cls")
                                 print("最新公告如下：")
                                 time.sleep(3)
                                 input("按回车键返回")
